@@ -71,7 +71,7 @@ tasks:
     src: https://github.com/Blumlaut/EasyAdmin
     ref: 776ac8f3898182e5c075d533bbd89e92efa017e9
     dest: ./resources/EasyAdmin
-    
+
   - action: download_github
     src: https://github.com/DevTestingPizza/vSync
     ref: 65f0e3cdd5692b619985a7df6297ffca7db41525
